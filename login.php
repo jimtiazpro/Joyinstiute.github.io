@@ -23,7 +23,7 @@
         <nav class="fbheader" style="padding: 0px 184px 0px 150px ;">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-7" style="margin-top: 29px"><h3>SA INSTITUTE</h3></div>
+                    <div class="col-lg-7" style="margin-top: 29px"><h3>Joy INSTITUTE</h3></div>
 						<div class="col-lg-5" style="margin-top: 1px">
                         	<div class="row">
                             	<div class="col-lg-5"><label> Email or Phone </label></div>
@@ -59,7 +59,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 float-left;" style="margin-left: 0px;">
-					 <h2 style="color: #0e385f; font-size: 20px;">SA Institute helps you learn and earn with IT Information in your life.</h2>
+					 <h2 style="color: #0e385f; font-size: 20px;">Joy Institute helps you learn and earn with IT Information in your life.</h2>
                     <br>
                     <img src="register.jpg" width="535px" height="300px">
                 </div>
